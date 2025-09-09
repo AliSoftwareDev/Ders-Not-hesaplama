@@ -1,0 +1,9 @@
+{
+    "workbench.editor.tabActionLocation": "left",
+    "terminal.integrated.commandsToSkipShell": [
+        "\"workbench.editor.tablocation\": \"top\""
+    ],
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+}
